@@ -1,0 +1,6 @@
+c:\users\ttv14snikos\documents\visual studio 2013\Projects\MCD-Chapter1\MCD-Chapter1\bin\Debug\MCD-Chapter1.exe.config
+c:\users\ttv14snikos\documents\visual studio 2013\Projects\MCD-Chapter1\MCD-Chapter1\obj\Debug\MCD-Chapter1.csprojResolveAssemblyReference.cache
+c:\users\ttv14snikos\documents\visual studio 2013\Projects\MCD-Chapter1\MCD-Chapter1\bin\Debug\MCD-Chapter1.exe
+c:\users\ttv14snikos\documents\visual studio 2013\Projects\MCD-Chapter1\MCD-Chapter1\bin\Debug\MCD-Chapter1.pdb
+c:\users\ttv14snikos\documents\visual studio 2013\Projects\MCD-Chapter1\MCD-Chapter1\obj\Debug\MCD-Chapter1.exe
+c:\users\ttv14snikos\documents\visual studio 2013\Projects\MCD-Chapter1\MCD-Chapter1\obj\Debug\MCD-Chapter1.pdb
